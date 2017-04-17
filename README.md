@@ -1,6 +1,3 @@
 # AApachePOI_ProofConcept
-Prueba de concepto del uso de la librería Apache POI para el manejo de archivos word desde una aplicación web java EE.
-Topics:
--Java EE 7
--Apache POI
--Primefaces 5.2
+Prueba de concepto del uso de la librería Apache POI para el manejo de archivos word desde una aplicación web Java EE.
+Topics: Java_EE7, JSF, Apache POI, Primefaces 5.2.
